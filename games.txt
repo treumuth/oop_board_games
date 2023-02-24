@@ -1,5 +1,5 @@
-terraforming mars;helena,kristjan,ago;points;140,87,201
-7 wonders;ekke,joosep,kadri,helena,jan;points;54,24,85,42,65
-chess;joosep,kristjan;places;kristjan,joosep
-game of thrones;hans,mart,riho;winner;mart
-terraforming mars;ago,jaak,kristjan,joosep;points;444,30,775,191
+7 wonders;ekke,joosep,kristjan,gregor,jan;points;50,49,20,80,65
+chess;joosep,kristjan;places;joosep,kristjan
+terraforming mars;mati,kati,joosep;points;170,231,98
+game of thrones;hans,mart,riho;winner;riho
+terraforming mars;ago,joosep,jaak,kristjan;points;200,100,775,191
